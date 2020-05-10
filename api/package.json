@@ -2,7 +2,7 @@
   "name": "api",
   "version": "1.0.0",
   "private": true,
-  "author": "Atul Yadav <atul.12788@gmail.com>",
+  "author": "prodev880110 <jack.dev880110@gmail.com>",
   "scripts": {
     "seed": "babel-node src/setup/server/seeder.js",
     "setup": "npm install && npm run seed",

@@ -2,22 +2,6 @@
 
 OAuth 2.0 implementation for various providers in one place.
 
-<a href="#facebook"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/facebook.svg" alt="Facebook" width="30" height="30" /></a>
-<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="30" height="30" /></a>
-<a href="#instagram"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/instagram.svg" alt="Instagram" width="30" height="30" /></a>
-<a href="#linkedin"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/linkedin.svg" alt="LinkedIn" width="30" height="30" /></a>
-<a href="#twitter"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/twitter.svg" alt="Twitter" width="30" height="30" /></a>
-<a href="#reddit"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/reddit.svg" alt="Reddit" width="30" height="30" /></a>
-<a href="#discord"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/discord.svg" alt="Discord" width="30" height="30" /></a>
-<a href="#zoom"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/zoom.svg" alt="Zoom" width="30" height="30" /></a>
-<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
-<a href="#gitlab"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/gitlab.svg" alt="GitLab" width="30" height="30" /></a>
-<a href="#digitalocean"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/digitalocean.svg" alt="DigitalOcean" width="30" height="30" /></a>
-<a href="#bitbucket"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/bitbucket.svg" alt="Bitbucket" width="30" height="30" /></a>
-<a href="#azure"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/azure.svg" alt="Azure" width="30" height="30" /></a>
-<a href="#spotify"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/other/spotify.svg" alt="Spotify" width="30" height="30" /></a>
-<a href="#shopify"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/other/shopify.svg" alt="Shopify" width="30" height="30" /></a>
-
 This project contains OAuth 2.0 implementation for various providers and help you understand following OAuth 2.0 flow:
 
 1. Show platform dialog
@@ -35,8 +19,6 @@ Actual steps implemented in this sample code repository:
 7. Save user details into the database and authenticate the user
 
 Although this project is built using React on the front-end and NodeJS on the back-end, the flow and implementation largely remains same for any other language or framework.
-
-<img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/preview.png?v=0.1" alt="OAuth" />
 
 ## Integrations
 
@@ -402,7 +384,7 @@ Although this project is built using React on the front-end and NodeJS on the ba
   - MongoDB (`v4.x`)
   - IDE (Webstorm / Visual Studio Code)
 
-- Clone repository `git clone git@github.com:atulmy/oauth.git oauth`
+- Clone repository `git clone git@github.com:prodev880110/oauth.git oauth`
 
 - **API**
 
@@ -435,7 +417,7 @@ Looking for a particular OAuth integration not yet added? Open an issue / Send a
 
 ## Authors
 
-- Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
+- prodev880110 - [GitHub](https://github.com/prodev880110) · [Twitter](https://twitter.com/prodev880110)
 - [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
 
 ## Community reviews
@@ -445,16 +427,15 @@ Looking for a particular OAuth integration not yet added? Open an issue / Send a
 
 ## Hire me
 
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
+Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [jack.dev880110@gmail.com](mailto:jack.dev880110@gmail.com)
 
 ## Donate
 
 If you liked this project, consider donating to support it ❤️
 
-[![Donate via PayPal](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/atulmy)
 
 ## License
 
-Copyright (c) 2020 Atul Yadav http://github.com/atulmy
+Copyright (c) 2020 prodev880110 http://github.com/prodev880110
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)
